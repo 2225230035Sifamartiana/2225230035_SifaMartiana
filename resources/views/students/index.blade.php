@@ -49,7 +49,7 @@
                                             <form method="POST" action="{{ url('/student' . '/' . $item->id) }}" accept-charset="UTF-8" style="display:inline">
                                                 {{ method_field('DELETE') }}
                                                 {{ csrf_field() }}
-                                                <button type="submit" class="btn btn-primary btn-sm" title="Delete Student" ><i class="fa fa-trash-o" aria-hidden="true"></i> Delete</button>
+                                                <button type="submit" class="btn btn-primary btn-sm" title="Delete Student" ><i class="fa fa-trash-o" aria-hidden="true"></i>Delete</button>
                                             </form>
                                         </td>
                                     </tr>
