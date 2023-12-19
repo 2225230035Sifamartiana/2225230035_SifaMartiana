@@ -27,7 +27,7 @@
         <div class="card-body">
           <h5 class="card-title">WEB PECINTA ANIME</h5>
           <h6 class="card-subtitle mb-2 text-body-secondary">Sifa Martiana 2225230035</h6>
-          <p class="card-text">Assalamualaikum warahmatullahi wabarakatuh, Web ini di buat untuk memenuhi project algoritma pemograman, sebelumnya ini adalah Web untuk mengumpulkan mahasiswa yang menyukai anime dari beberapa universitas, tentunya dari satu mahasiswa ke mahasiswa lainnya ada yang sama dengan judul anime yang di tonton ada juga yang tidak sama, untuk lebih jelasnya silahkan  klik buka aplikasi, Terima Kasih selamat menyaksikan!!!</p>
+          <p class="card-text">Assalamualaikum warahmatullahi wabarakatuh, Web ini di buat untuk memenuhi project algoritma pemograman, sebelumnya ini adalah Web untuk mengumpulkan mahasiswa yang menyukai anime dari beberapa universitas, tentunya dari satu mahasiswa ke mahasiswa lainnya ada yang sama dengan judul anime yang di tonton ada juga yang tidak sama, untuk lebih jelasnya silahkan  klik buka aplikasi, Terima Kasih </p>
           <a href="{{ url('/student') }}" class="btn btn-primary">Buka Aplikasi</a>
         </div>
       </div>

@@ -24,7 +24,7 @@
                                         <th>Universitas</th>
                                         <th>Judul_Anime</th>
                                         <th>Genre</th>
-                                        <th>Actions</th>
+                                        <th>Aksi</th>
                                     </tr>
                                 </thead>
                                 <tbody>

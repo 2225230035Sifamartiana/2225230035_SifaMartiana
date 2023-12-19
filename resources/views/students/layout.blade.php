@@ -9,13 +9,13 @@
   <body>
   <style> 
     body {
-      background-image: url("{{ asset('/images/levi.jpg')}}");
+      background-image: url("{{ asset('/images/wantedd.jpg')}}");
     }
     </style>
 
 <style>
   .card{
-    background: #e8ccdc;
+    background: #d1ad77;
   }
 </style
 

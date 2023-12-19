@@ -19,7 +19,7 @@
         <input type="text" name="judul_anime" id="judul_anime" value="{{$students->judul_anime}}" class="form-control"></br> 
         <label>Genre</label>
         <input type="text" name="genre" id="genre" value="{{$students->genre}}" class="form-control"></br> 
-        <input type="submit" value="Update" class="btn btn-secondary"></br>
+        <input type="submit" value="Perbarui" class="btn btn-secondary"></br>
     </form>
    
   </div>
